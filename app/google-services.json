@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "994332765094",
+    "project_id": "roffu-test",
+    "storage_bucket": "roffu-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994332765094:android:14f91ff5e1a0c418807d67",
+        "android_client_info": {
+          "package_name": "com.mustfaibra.roffu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994332765094-sesrradj36v077h2j829b99ok4nph5u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApw9jL-3OKFsCqfr7Ub5-iREgvLv3aiPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994332765094-sesrradj36v077h2j829b99ok4nph5u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
